@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: Programming Books
 description: Open Source PDF Books
-show_downloads: true
+show_downloads: false
