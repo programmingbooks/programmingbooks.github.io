@@ -17,7 +17,7 @@
 |Operating Systems| [Think OS](https://greenteapress.com/thinkos/thinkos.pdf)|
 |Probability & Statistics| [Think Stats](https://greenteapress.com/thinkstats2/thinkstats2.pdf)|
 |Python| [Think Python](https://greenteapress.com/thinkpython2/thinkpython2.pdf)|
-<!-- |Reinforcement Learning| [Reinforcement Learning](http://incompleteideas.net/book/RLbook2020.pdf)| -->
+|Reinforcement Learning| [Reinforcement Learning](http://incompleteideas.net/book/RLbook2020.pdf)|
 
 # Feedback
 [Form](https://forms.gle/Fx19sH2emufTpwsDA)
